@@ -1,16 +1,16 @@
-name: Test
+name: test_3
 devices:
-  SM2:
-  - SM2_B0A104
-  - SM2_B0A105
-  - SM2_B1A104
-  - SM2_B1A105
+  SM1:
+  - SM1_B0A104
+  - SM1_B0A105
+  - SM1_B1A104
+  - SM1_B1A105
 time:
   start:
-    SM2: 1679836861.5325506
+    SM1: 1690224016.2998116
   duration: 1
 sensors:
-  SM2_B0A104:
+  SM1_B0A104:
     clock_source: 1
     dlpf_mode: 6
     rate: 9
@@ -24,7 +24,7 @@ sensors:
     y_gyro_fifo_enabled: 1
     z_gyro_fifo_enabled: 1
     package_length: 12
-  SM2_B0A105:
+  SM1_B0A105:
     clock_source: 1
     dlpf_mode: 6
     rate: 9
@@ -38,7 +38,7 @@ sensors:
     y_gyro_fifo_enabled: 1
     z_gyro_fifo_enabled: 1
     package_length: 12
-  SM2_B1A104:
+  SM1_B1A104:
     clock_source: 1
     dlpf_mode: 6
     rate: 9
@@ -52,7 +52,7 @@ sensors:
     y_gyro_fifo_enabled: 1
     z_gyro_fifo_enabled: 1
     package_length: 12
-  SM2_B1A105:
+  SM1_B1A105:
     clock_source: 1
     dlpf_mode: 6
     rate: 9
@@ -67,30 +67,30 @@ sensors:
     z_gyro_fifo_enabled: 1
     package_length: 12
 overflows:
-  SM2_B0A104: []
-  SM2_B0A105: []
-  SM2_B1A104: []
-  SM2_B1A105: []
+  SM1_B0A104: []
+  SM1_B0A105: []
+  SM1_B1A104: []
+  SM1_B1A105: []
 files:
-  SM2_B0A104: SM2_B0A104
-  SM2_B0A105: SM2_B0A105
-  SM2_B1A104: SM2_B1A104
-  SM2_B1A105: SM2_B1A105
+  SM1_B0A104: SM1_B0A104
+  SM1_B0A105: SM1_B0A105
+  SM1_B1A104: SM1_B1A104
+  SM1_B1A105: SM1_B1A105
 n_packages:
-  SM2_B0A104: 98
-  SM2_B0A105: 98
-  SM2_B1A104: 98
-  SM2_B1A105: 98
+  SM1_B0A104: 98
+  SM1_B0A105: 98
+  SM1_B1A104: 98
+  SM1_B1A105: 98
 crops:
-  SM2_B0A104:
+  SM1_B0A104:
   - 0
   - 98
-  SM2_B0A105:
+  SM1_B0A105:
   - 0
   - 98
-  SM2_B1A104:
+  SM1_B1A104:
   - 0
   - 98
-  SM2_B1A105:
+  SM1_B1A105:
   - 0
   - 98
