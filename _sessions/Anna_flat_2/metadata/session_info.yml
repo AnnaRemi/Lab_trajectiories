@@ -1,4 +1,4 @@
-name: Anna_up
+name: Anna_flat_2
 devices:
   SM2:
   - SM2_B0A104
@@ -7,7 +7,7 @@ devices:
   - SM2_B1A105
 time:
   start:
-    SM2: 1690635620.3583808
+    SM2: 1690641390.470392
   duration: 9
 sensors:
   SM2_B0A104:
@@ -79,7 +79,7 @@ files:
 n_packages:
   SM2_B0A104: 898
   SM2_B0A105: 900
-  SM2_B1A104: 898
+  SM2_B1A104: 900
   SM2_B1A105: 900
 crops:
   SM2_B0A104:
