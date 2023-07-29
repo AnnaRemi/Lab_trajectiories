@@ -1,10 +1,10 @@
-name: Anna_flat_2
+name: Anna_up_1
 devices:
   SM2:
   - SM2_B1A104
 time:
   start:
-    SM2: 1690642065.4690928
+    SM2: 1690642096.9277472
   duration: 9
 sensors:
   SM2_B1A104:
