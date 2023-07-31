@@ -1,4 +1,4 @@
-name: Anna_flat_1
+name: test
 devices:
   SM2:
   - SM2_B0A104
@@ -7,8 +7,8 @@ devices:
   - SM2_B1A105
 time:
   start:
-    SM2: 1690810297.508634
-  duration: 7
+    SM2: 1690810142.9081528
+  duration: 1
 sensors:
   SM2_B0A104:
     clock_source: 1
@@ -77,20 +77,20 @@ files:
   SM2_B1A104: SM2_B1A104
   SM2_B1A105: SM2_B1A105
 n_packages:
-  SM2_B0A104: 698
-  SM2_B0A105: 700
-  SM2_B1A104: 698
-  SM2_B1A105: 700
+  SM2_B0A104: 98
+  SM2_B0A105: 98
+  SM2_B1A104: 98
+  SM2_B1A105: 98
 crops:
   SM2_B0A104:
   - 0
-  - 698
+  - 98
   SM2_B0A105:
   - 0
-  - 698
+  - 98
   SM2_B1A104:
   - 0
-  - 698
+  - 98
   SM2_B1A105:
   - 0
-  - 698
+  - 98
