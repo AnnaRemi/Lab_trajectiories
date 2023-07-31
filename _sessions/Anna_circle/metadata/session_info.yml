@@ -1,4 +1,4 @@
-name: test
+name: Anna_circle
 devices:
   SM2:
   - SM2_B0A104
@@ -7,8 +7,8 @@ devices:
   - SM2_B1A105
 time:
   start:
-    SM2: 1690810142.9081528
-  duration: 1
+    SM2: 1690813476.468419
+  duration: 5
 sensors:
   SM2_B0A104:
     clock_source: 1
@@ -77,20 +77,20 @@ files:
   SM2_B1A104: SM2_B1A104
   SM2_B1A105: SM2_B1A105
 n_packages:
-  SM2_B0A104: 98
-  SM2_B0A105: 98
-  SM2_B1A104: 98
-  SM2_B1A105: 98
+  SM2_B0A104: 498
+  SM2_B0A105: 500
+  SM2_B1A104: 500
+  SM2_B1A105: 500
 crops:
   SM2_B0A104:
   - 0
-  - 98
+  - 498
   SM2_B0A105:
   - 0
-  - 98
+  - 498
   SM2_B1A104:
   - 0
-  - 98
+  - 498
   SM2_B1A105:
   - 0
-  - 98
+  - 498

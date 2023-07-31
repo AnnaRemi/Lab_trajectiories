@@ -7,8 +7,8 @@ devices:
   - SM2_B1A105
 time:
   start:
-    SM2: 1690810297.508634
-  duration: 7
+    SM2: 1690813367.8121088
+  duration: 9
 sensors:
   SM2_B0A104:
     clock_source: 1
@@ -77,20 +77,20 @@ files:
   SM2_B1A104: SM2_B1A104
   SM2_B1A105: SM2_B1A105
 n_packages:
-  SM2_B0A104: 698
-  SM2_B0A105: 700
-  SM2_B1A104: 698
-  SM2_B1A105: 700
+  SM2_B0A104: 898
+  SM2_B0A105: 900
+  SM2_B1A104: 898
+  SM2_B1A105: 900
 crops:
   SM2_B0A104:
   - 0
-  - 698
+  - 898
   SM2_B0A105:
   - 0
-  - 698
+  - 898
   SM2_B1A104:
   - 0
-  - 698
+  - 898
   SM2_B1A105:
   - 0
-  - 698
+  - 898
